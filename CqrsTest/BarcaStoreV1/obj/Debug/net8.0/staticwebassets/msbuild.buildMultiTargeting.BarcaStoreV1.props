@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\BarcaStoreV1.props" />
+</Project>
